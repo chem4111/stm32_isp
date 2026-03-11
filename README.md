@@ -36,4 +36,4 @@ C:\Users\dana0\Desktop\stm32_isp>stm32_isp.exe com7 115200 clear
 [*] Sync 0x7F
 [*] Global erase
 [+] Erase done
-[*] 退出 ISP
+[*] 退出 ISP   整理下我要放在github文本去
