@@ -1,8 +1,6 @@
-stm32_isp
-
-适用于 STM32F103C6T6 的串口 ISP 下载工具
-
-下载 BIN 程序
+stm32_isp  
+适用于 STM32F103C6T6 的串口 ISP 下载工具  
+下载 BIN 程序 
 
 	stm32_isp.exe com7 115200 download led_test.bin
 	[*] Open com7 @ 115200
