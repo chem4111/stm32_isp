@@ -1,6 +1,6 @@
 stm32_isp_gui.exe 窗口
 
-<img width="500" height="420" alt="image" src="https://github.com/user-attachments/assets/eb6036c0-7058-46fe-8494-4e9426fe8983" />
+<img width="753" height="607" alt="image" src="https://github.com/user-attachments/assets/8b47d231-dae6-4729-9ea2-acb9bbcbcfa2" />
 
 stm32_isp.ese  命令  
 适用于 STM32F103C6T6 的串口 ISP 下载工具  
